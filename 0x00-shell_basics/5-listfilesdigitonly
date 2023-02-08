@@ -1,2 +1,1 @@
-#!/bin/bash
-ls -l/usr/bin/id
+#!/bin/bash\nls -n ~/.bash_profile
