@@ -1,2 +1,2 @@
-#!/ova/onfu
-nyvnf ebg13="ge 'a-zA-Z' 'n-mN-M' 'a-mn-zA-MN-Z'"
+#!/bin/bash
+alias rot13="tr '[A-Za-z]' '[N-ZA-Mn-za-m]'"
